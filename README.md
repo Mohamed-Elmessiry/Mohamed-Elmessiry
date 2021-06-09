@@ -15,7 +15,8 @@ I am dedicated to continuing to learn more and more about development, and I am 
 
 
 ### Skills
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[#1572B6].svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/CSS3.svg" />
+
 
 JavaScript(ES5/ES6), HTML5, CSS3, React, SQL, PostgreSQL, Express.js, Node.js, npm, webpack, Babel
 
