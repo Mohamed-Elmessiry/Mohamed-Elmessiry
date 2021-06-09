@@ -14,7 +14,7 @@ I am dedicated to continuing to learn more and more about development, and I am 
 
 
 ### Skills
- <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" /> | <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" />
+ <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" />  <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/javascript.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/npm.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/react.svg" />
