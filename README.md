@@ -13,12 +13,22 @@ When my journey started, I was limited to rendering some HTML elements on a page
 I am dedicated to continuing to learn more and more about development, and I am excited about what I might build in the future.
 
 
-
 ### Skills
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/html5.svg" />
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/css3.svg" />
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/javascript.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/npm.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/react.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/postgresql.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/nodedotjs.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/webpack.svg" />
 
-JavaScript(ES5/ES6), HTML5, CSS3, React, SQL, PostgreSQL, Express.js, Node.js, npm, webpack, Babel
+
+
+
+
+
+
 
 <!--
 **Mohamed-Elmessiry/Mohamed-Elmessiry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
