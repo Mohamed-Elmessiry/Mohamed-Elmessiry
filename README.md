@@ -4,7 +4,7 @@
 
 Hi, I am Mohamed Elmessiry , a Full Stack Developer.
 
-I am coming from a Finance background, new to the Tech industry, was fascinated by how the industry is evolving and growing, also how it's impacting every aspect of people's life's. This helped me make a decision regarding switching my career path to Web Development.
+I am coming from a Finance background, new to the Tech industry, was fascinated by how the industry is evolving and growing, also how it's impacting every aspect of people's lives. This helped me make a decision regarding switching my career path to Web Development.
 
 Personally, my passion comes from building fun and recreational apps 
 
