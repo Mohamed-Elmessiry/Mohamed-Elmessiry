@@ -12,6 +12,13 @@ When my journey started, I was limited to rendering some HTML elements on a page
 
 I am dedicated to continuing to learn more and more about development, and I am excited about what I might build in the future.
 
+📈 Check out my stats!
+
+![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Elmessiry)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Elmessiry)](https://github.com/Mohamed-Elmessiry/github-readme-stats)
+
+
 ### 🔭 I’m currently working on
 
 * [tripster](https://github.com/Mohamed-Elmessiry/tripster) a recreational travel app
@@ -30,9 +37,6 @@ I am dedicated to continuing to learn more and more about development, and I am 
 * 🔗 Linkedin: https://www.linkedin.com/in/mohamed-elmessiry-msc/
 * ✉️ Email: mohamedelmessiry@hotmail.com
 
-📈 Check out my stats!
-
-![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Elmessiry)
 
 
 <!--
