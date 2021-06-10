@@ -12,7 +12,7 @@ When my journey started, I was limited to rendering some HTML elements on a page
 
 I am dedicated to continuing to learn more and more about development, and I am excited about what I might build in the future.
 
-📈 Check out my stats!
+### 📈 Check out my stats!
 
 ![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Elmessiry)
 
