@@ -26,12 +26,13 @@ I am dedicated to continuing to learn more and more about development, and I am 
 <img src="https://camo.githubusercontent.com/42ada9cc774b9d2b4cf35691820a881d70657ae42c3a074f00c7e9add6352361/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&amp;logo=visual%20studio%20code&amp;logoColor=white" style="max-width:100%;">
 <img src="https://camo.githubusercontent.com/55037e0ff8e2c9df84ad631c3d0443a7316776ede7459a5872ccb336d7df2781/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e706d2d4342333833373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&amp;logo=npm&amp;logoColor=white" style="max-width:100%;">
 
+### 🚀 Let's get connected!
+* 🔗 Linkedin: https://www.linkedin.com/in/mohamed-elmessiry-msc/
+* ✉️ Email: mohamedelmessiry@hotmail.com
 
+📈 Check out my stats!
 
-
-
-
-
+![Mohamed's github stats](https://github-readme-stats.vercel.app/api?username=Mohamed-Elmessiry)
 
 
 <!--
