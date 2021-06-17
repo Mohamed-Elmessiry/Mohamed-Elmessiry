@@ -36,7 +36,7 @@ I am dedicated to continuing to learn more and more about development, and I am 
 ### 🚀 Let's get connected!
 * 🔗 Linkedin: https://www.linkedin.com/in/mohamed-elmessiry-msc/
 * ✉️ Email: mohamedelmessiry@hotmail.com
-
+* Resume: https://github.com/Mohamed-Elmessiry/Mohamed-Elmessiry/blob/main/Mohamed_Elmessiry_Resume.pdf
 
 
 <!--
